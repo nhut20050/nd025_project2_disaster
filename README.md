@@ -7,6 +7,7 @@ Data analysis and catastrophe categorization are also possible uses for the proj
 
 
 ## 2. Files Structure
+```
 📦Project 2
  ┣ 📂app
  ┃ ┣ 📂templates
@@ -20,6 +21,7 @@ Data analysis and catastrophe categorization are also possible uses for the proj
  ┣ 📂models
  ┃ ┗ 📜train_classifier.py
  ┗ 📜README.md
+ ```
 
 
 ## 3. Details
